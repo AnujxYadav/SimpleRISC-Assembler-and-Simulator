@@ -7,4 +7,4 @@ The following repository contains :
 
 -> Assembler code written in c++
 
--> Simulator code written in ython
+-> Simulator code written in python
